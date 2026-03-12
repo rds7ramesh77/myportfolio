@@ -1,8 +1,8 @@
 <?php
 	/*Form settings*/
-	$subj = "New message from the site 'Ober - CV Resume Template'"; //letter subject
-	$to = 'youremail@domain.com'; // Enter Your E-mail
-	$from = 'admin@you-site-name.com'; // Admin e-mail
-	$fromName = 'Your Company Name'; // Your company name
+	$subj = "New message from your portfolio site"; //letter subject
+	$to = 'msgrds7@gmail.com'; // Recipient e-mail
+	$from = 'msgrds7@gmail.com'; // Sender e-mail
+	$fromName = 'Ramesh Sapkota Portfolio'; // Sender name
 	$charset = 'UTF-8';
 ?>
